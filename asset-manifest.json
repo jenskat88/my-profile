@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jenskat88/my-profile.git/static/css/main.7176885d.chunk.css",
-    "main.js": "/jenskat88/my-profile.git/static/js/main.873ee93b.chunk.js",
-    "main.js.map": "/jenskat88/my-profile.git/static/js/main.873ee93b.chunk.js.map",
-    "runtime-main.js": "/jenskat88/my-profile.git/static/js/runtime-main.801a4af9.js",
-    "runtime-main.js.map": "/jenskat88/my-profile.git/static/js/runtime-main.801a4af9.js.map",
-    "static/js/2.b12bdb19.chunk.js": "/jenskat88/my-profile.git/static/js/2.b12bdb19.chunk.js",
-    "static/js/2.b12bdb19.chunk.js.map": "/jenskat88/my-profile.git/static/js/2.b12bdb19.chunk.js.map",
-    "static/js/3.21ac6ea1.chunk.js": "/jenskat88/my-profile.git/static/js/3.21ac6ea1.chunk.js",
-    "static/js/3.21ac6ea1.chunk.js.map": "/jenskat88/my-profile.git/static/js/3.21ac6ea1.chunk.js.map",
+    "main.css": "/jenskat88/my-profile.git/static/css/main.e2e21b89.chunk.css",
+    "main.js": "/jenskat88/my-profile.git/static/js/main.076e0f7b.chunk.js",
+    "main.js.map": "/jenskat88/my-profile.git/static/js/main.076e0f7b.chunk.js.map",
+    "runtime-main.js": "/jenskat88/my-profile.git/static/js/runtime-main.33dfb1ba.js",
+    "runtime-main.js.map": "/jenskat88/my-profile.git/static/js/runtime-main.33dfb1ba.js.map",
+    "static/js/2.61615ea8.chunk.js": "/jenskat88/my-profile.git/static/js/2.61615ea8.chunk.js",
+    "static/js/2.61615ea8.chunk.js.map": "/jenskat88/my-profile.git/static/js/2.61615ea8.chunk.js.map",
+    "static/js/3.90b9abee.chunk.js": "/jenskat88/my-profile.git/static/js/3.90b9abee.chunk.js",
+    "static/js/3.90b9abee.chunk.js.map": "/jenskat88/my-profile.git/static/js/3.90b9abee.chunk.js.map",
     "index.html": "/jenskat88/my-profile.git/index.html",
-    "static/css/main.7176885d.chunk.css.map": "/jenskat88/my-profile.git/static/css/main.7176885d.chunk.css.map",
-    "static/js/2.b12bdb19.chunk.js.LICENSE.txt": "/jenskat88/my-profile.git/static/js/2.b12bdb19.chunk.js.LICENSE.txt"
+    "static/css/main.e2e21b89.chunk.css.map": "/jenskat88/my-profile.git/static/css/main.e2e21b89.chunk.css.map",
+    "static/js/2.61615ea8.chunk.js.LICENSE.txt": "/jenskat88/my-profile.git/static/js/2.61615ea8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.801a4af9.js",
-    "static/js/2.b12bdb19.chunk.js",
-    "static/css/main.7176885d.chunk.css",
-    "static/js/main.873ee93b.chunk.js"
+    "static/js/runtime-main.33dfb1ba.js",
+    "static/js/2.61615ea8.chunk.js",
+    "static/css/main.e2e21b89.chunk.css",
+    "static/js/main.076e0f7b.chunk.js"
   ]
 }
