@@ -1,5 +1,5 @@
 .hero-container {
-    background: url('/Users/jordanenskat/Documents/Web Development/my-app/src/components/Pages/Images/HeroBG.jpeg') center center/cover no-repeat;
+    background: url('https://github.com/jenskat88/portfolio/blob/master/img/New.JPG?raw=true') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
