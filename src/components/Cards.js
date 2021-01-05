@@ -14,7 +14,7 @@ function Cards() {
                         src="https://github.com/jenskat88/portfolio/blob/master/img/portfolio/1.png?raw=true"
                         text="This is a static landing page built with Bootstrap, HTML, and CSS."
                         label="Project 1"
-                        path="/services"
+                        path="https://jenskat88.github.io/portfolio/"
                     />
                     <CardItem 
                         src="https://github.com/jenskat88/portfolio/blob/master/img/portfolio/1.png?raw=true"
