@@ -27,30 +27,34 @@ function Footer() {
                     </div>
                     <small className="website-rights">JE.Designs © 2021</small>
                     <div className="social-icons">
-                        <Link className="social-icon-link facebook"
-                        to="/"
+                        <a className="social-icon-link facebook"
+                        href="https://www.facebook.com/JE-Designs-102008255002543/"
                         target="_blank"
+                        rel='noreferrer noopener'
                         aria-label="Facebook">
                             <i className="fab fa-facebook"></i>
-                        </Link>
-                        <Link className="social-icon-link instagram"
-                        to="/"
+                        </a>
+                        <a className="social-icon-link instagram"
+                        href="https://www.instagram.com/dev.jordan88/"
                         target="_blank"
+                        rel='noreferrer noopener'
                         aria-label="Instagram">
                             <i className="fab fa-instagram"></i>
-                        </Link>
-                        <Link className="social-icon-link linkedin"
-                        to="/"
+                        </a>
+                        <a className="social-icon-link linkedin"
+                        href="https://www.linkedin.com/in/jordanenskat/"
                         target="_blank"
+                        rel='noreferrer noopener'
                         aria-label="linkedin">
                             <i className="fab fa-linkedin"></i>
-                        </Link>
-                        <Link className="social-icon-link github"
-                        to="/"
+                        </a>
+                        <a className="social-icon-link github"
+                        href="https://github.com/jenskat88"
                         target="_blank"
+                        rel='noreferrer noopener'
                         aria-label="Github">
                             <i className="fab fa-github"></i>
-                        </Link>
+                        </a>
                     </div>
                 </div>
             </section>
