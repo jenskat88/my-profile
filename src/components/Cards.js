@@ -14,13 +14,13 @@ function Cards() {
                         src="https://github.com/jenskat88/portfolio/blob/master/img/portfolio/1.png?raw=true"
                         text="This is a static landing page built with Bootstrap, HTML, and CSS."
                         label="Project 1"
-                        href="https://jenskat88.github.io/portfolio/"
+                        url="https://jenskat88.github.io/portfolio/"
                     />
                     <CardItem 
                         src="https://github.com/jenskat88/portfolio/blob/master/img/portfolio/1.png?raw=true"
                         text="This is a static landing page built with Bootstrap, HTML, and CSS."
                         label="Project 2"
-                        path="/services"
+                        url="https://secret-reaches-21098.herokuapp.com/"
                     />
                 </ul>
                 <ul className="cards__items">
